@@ -15,7 +15,7 @@ Anyone can contribute to the application to make it more feature rich such as fi
 For any problem regarding the application, you can directly raise an issue on its official github repository.
 
 ## Installation
-You can download the project and use the following instructions to build the project into .exe format that can be used by any windows platform.
+You can either download and build the project yourself or you can download the .exe file which can directly be used on windows platform from this location -> "Determinant-visualize-and-calculate/Matrix determinent/bin/Debug/  
 
 
 
