@@ -1,0 +1,10 @@
+D:\Visual Basics\Matrix determinent\Matrix determinent\bin\Debug\Matrix determinent.exe.config
+D:\Visual Basics\Matrix determinent\Matrix determinent\bin\Debug\Matrix determinent.exe
+D:\Visual Basics\Matrix determinent\Matrix determinent\bin\Debug\Matrix determinent.pdb
+D:\Visual Basics\Matrix determinent\Matrix determinent\bin\Debug\Matrix determinent.xml
+D:\Visual Basics\Matrix determinent\Matrix determinent\obj\Debug\Matrix_determinent.Resources.resources
+D:\Visual Basics\Matrix determinent\Matrix determinent\obj\Debug\Matrix determinent.vbproj.GenerateResource.Cache
+D:\Visual Basics\Matrix determinent\Matrix determinent\obj\Debug\Matrix determinent.exe
+D:\Visual Basics\Matrix determinent\Matrix determinent\obj\Debug\Matrix determinent.xml
+D:\Visual Basics\Matrix determinent\Matrix determinent\obj\Debug\Matrix determinent.pdb
+D:\Visual Basics\Matrix determinent\Matrix determinent\obj\Debug\Matrix_determinent.form.resources
