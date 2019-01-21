@@ -9,8 +9,11 @@
     Dim R3C1 As Double
     Dim R3C2 As Double
     Dim R3C3 As Double
+<<<<<<< HEAD
     Dim p As Double
     Dim counter As Integer
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
 
     'to store the final output
     Dim value As Double
@@ -23,11 +26,14 @@
 
     'btn to calculate the final output
     Private Sub btnCalculate_Click(sender As Object, e As EventArgs) Handles btnCalculate.Click
+<<<<<<< HEAD
 
         'make output boxes read only
         textValue.ReadOnly = True
         txtvisual.ReadOnly = True
 
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         'to check error occured or not
         Dim check As Integer = 0
 
@@ -77,55 +83,82 @@
     Private Sub text11_TextChanged(sender As Object, e As EventArgs) Handles text11.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text12_TextChanged(sender As Object, e As EventArgs) Handles text12.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text13_TextChanged(sender As Object, e As EventArgs) Handles text13.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text21_TextChanged(sender As Object, e As EventArgs) Handles text21.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text22_TextChanged(sender As Object, e As EventArgs) Handles text22.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text23_TextChanged(sender As Object, e As EventArgs) Handles text23.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text31_TextChanged(sender As Object, e As EventArgs) Handles text31.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text32_TextChanged(sender As Object, e As EventArgs) Handles text32.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     Private Sub text33_TextChanged(sender As Object, e As EventArgs) Handles text33.TextChanged
         'if input in any cell changes make output empty
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     'Sub to clear all cells
@@ -141,7 +174,10 @@
         text32.Text = ""
         text33.Text = ""
         textValue.Text = ""
+<<<<<<< HEAD
         txtvisual.Text = ""
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
     End Sub
 
     'Sub to redirect on clicking on the link
@@ -164,6 +200,7 @@
     End Sub
 
     Private Sub btnVisualize_Click(sender As Object, e As EventArgs) Handles btnVisualize.Click
+<<<<<<< HEAD
 
         'make output boxes read only
         textValue.ReadOnly = True
@@ -222,6 +259,16 @@
             'enable the timer
             Timer1.Enabled = True
         End If
+=======
+        'to visualize the determinant finding process
+        temp = 0
+
+        'make background black for better visualization
+        Me.BackColor = Color.Black
+
+        'enable the timer
+        Timer1.Enabled = True
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
 
     End Sub
 
@@ -240,12 +287,15 @@
             text32.BackColor = Color.Cyan
             text33.BackColor = Color.Yellow
 
+<<<<<<< HEAD
             'showing the output in the text box after every interval
             p = R1C1 * (R2C2 * R3C3 - R2C3 * R3C2)
             txtvisual.AppendText("(")
             txtvisual.AppendText(CStr(p))
             txtvisual.AppendText(")")
 
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
             'move to R1C2 and its sub-matrix for finding determinant after 1 interval
         ElseIf temp = 1 Then
             text11.BackColor = Color.White
@@ -258,6 +308,7 @@
             text32.BackColor = Color.White
             text33.BackColor = Color.Yellow
 
+<<<<<<< HEAD
             'showing the output in the text box after every interval
             txtvisual.AppendText(" - ")
             txtvisual.AppendText("(")
@@ -266,6 +317,9 @@
             txtvisual.AppendText(")")
 
             'move to R1C3 and its sub-matrix for finding determinant after 2 interval
+=======
+            'move to R1C3 and its sub-matrix for finding determinant after 1 interval
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         ElseIf temp = 2 Then
             text11.BackColor = Color.White
             text12.BackColor = Color.White
@@ -276,6 +330,7 @@
             text31.BackColor = Color.Cyan
             text32.BackColor = Color.Yellow
             text33.BackColor = Color.White
+<<<<<<< HEAD
 
             'showing the output in the text box after every interval
             txtvisual.AppendText(" + ")
@@ -283,6 +338,8 @@
             p = R1C3 * (R2C1 * R3C2 - R2C2 * R3C1)
             txtvisual.AppendText(CStr(p))
             txtvisual.AppendText(")")
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Else
 
             'come to initial state after visualization
@@ -299,9 +356,12 @@
             'initial background color
             Me.BackColor = Color.FromArgb(255, 192, 128)
 
+<<<<<<< HEAD
             'show the output
             textValue.AppendText(CStr(value))
 
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
             'stop the timer
             Timer1.Stop()
         End If
@@ -310,6 +370,7 @@
         temp = temp + 1
     End Sub
 
+<<<<<<< HEAD
     'to play and pause visualization in between
     Private Sub btnPause_Click(sender As Object, e As EventArgs) Handles btnPause.Click
         If counter Mod 2 = 0 Then
@@ -323,4 +384,6 @@
     Private Sub form_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
 End Class

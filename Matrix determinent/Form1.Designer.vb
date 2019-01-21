@@ -53,13 +53,19 @@ Partial Class form
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+<<<<<<< HEAD
         Me.txtvisual = New System.Windows.Forms.TextBox()
         Me.btnPause = New System.Windows.Forms.Button()
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.SuspendLayout()
         '
         'C1
         '
+<<<<<<< HEAD
         Me.C1.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.C1.AutoSize = True
         Me.C1.BackColor = System.Drawing.Color.Transparent
         Me.C1.Font = New System.Drawing.Font("Lucida Calligraphy", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -71,7 +77,10 @@ Partial Class form
         '
         'C2
         '
+<<<<<<< HEAD
         Me.C2.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.C2.AutoSize = True
         Me.C2.BackColor = System.Drawing.Color.Transparent
         Me.C2.Font = New System.Drawing.Font("Lucida Calligraphy", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -83,7 +92,10 @@ Partial Class form
         '
         'C3
         '
+<<<<<<< HEAD
         Me.C3.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.C3.AutoSize = True
         Me.C3.BackColor = System.Drawing.Color.Transparent
         Me.C3.Font = New System.Drawing.Font("Lucida Calligraphy", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -95,7 +107,10 @@ Partial Class form
         '
         'R1
         '
+<<<<<<< HEAD
         Me.R1.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.R1.AutoSize = True
         Me.R1.BackColor = System.Drawing.Color.Transparent
         Me.R1.Font = New System.Drawing.Font("Lucida Calligraphy", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -107,7 +122,10 @@ Partial Class form
         '
         'R2
         '
+<<<<<<< HEAD
         Me.R2.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.R2.AutoSize = True
         Me.R2.BackColor = System.Drawing.Color.Transparent
         Me.R2.Font = New System.Drawing.Font("Lucida Calligraphy", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -119,7 +137,10 @@ Partial Class form
         '
         'R3
         '
+<<<<<<< HEAD
         Me.R3.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.R3.AutoSize = True
         Me.R3.BackColor = System.Drawing.Color.Transparent
         Me.R3.Font = New System.Drawing.Font("Lucida Calligraphy", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -131,7 +152,10 @@ Partial Class form
         '
         'text11
         '
+<<<<<<< HEAD
         Me.text11.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text11.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text11.Location = New System.Drawing.Point(276, 108)
         Me.text11.Name = "text11"
@@ -140,7 +164,10 @@ Partial Class form
         '
         'text21
         '
+<<<<<<< HEAD
         Me.text21.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text21.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text21.Location = New System.Drawing.Point(276, 160)
         Me.text21.Name = "text21"
@@ -149,7 +176,10 @@ Partial Class form
         '
         'text31
         '
+<<<<<<< HEAD
         Me.text31.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text31.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text31.Location = New System.Drawing.Point(276, 207)
         Me.text31.Name = "text31"
@@ -158,7 +188,10 @@ Partial Class form
         '
         'text12
         '
+<<<<<<< HEAD
         Me.text12.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text12.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text12.Location = New System.Drawing.Point(393, 108)
         Me.text12.Name = "text12"
@@ -167,7 +200,10 @@ Partial Class form
         '
         'text22
         '
+<<<<<<< HEAD
         Me.text22.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text22.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text22.Location = New System.Drawing.Point(393, 160)
         Me.text22.Name = "text22"
@@ -176,7 +212,10 @@ Partial Class form
         '
         'text32
         '
+<<<<<<< HEAD
         Me.text32.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text32.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text32.Location = New System.Drawing.Point(393, 206)
         Me.text32.Name = "text32"
@@ -185,7 +224,10 @@ Partial Class form
         '
         'text13
         '
+<<<<<<< HEAD
         Me.text13.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text13.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text13.Location = New System.Drawing.Point(510, 107)
         Me.text13.Name = "text13"
@@ -194,7 +236,10 @@ Partial Class form
         '
         'text23
         '
+<<<<<<< HEAD
         Me.text23.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text23.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text23.Location = New System.Drawing.Point(510, 160)
         Me.text23.Name = "text23"
@@ -203,7 +248,10 @@ Partial Class form
         '
         'text33
         '
+<<<<<<< HEAD
         Me.text33.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.text33.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.text33.Location = New System.Drawing.Point(510, 207)
         Me.text33.Name = "text33"
@@ -212,7 +260,10 @@ Partial Class form
         '
         'textValue
         '
+<<<<<<< HEAD
         Me.textValue.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.textValue.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.textValue.Location = New System.Drawing.Point(818, 155)
         Me.textValue.Name = "textValue"
@@ -221,7 +272,10 @@ Partial Class form
         '
         'Label7
         '
+<<<<<<< HEAD
         Me.Label7.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.Label7.AutoSize = True
         Me.Label7.BackColor = System.Drawing.Color.Transparent
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -234,7 +288,10 @@ Partial Class form
         'labelLink
         '
         Me.labelLink.ActiveLinkColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+<<<<<<< HEAD
         Me.labelLink.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.labelLink.AutoSize = True
         Me.labelLink.BackColor = System.Drawing.Color.Transparent
         Me.labelLink.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -249,12 +306,19 @@ Partial Class form
         '
         'btnCalculate
         '
+<<<<<<< HEAD
         Me.btnCalculate.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.btnCalculate.BackColor = System.Drawing.SystemColors.GradientActiveCaption
         Me.btnCalculate.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.btnCalculate.FlatAppearance.BorderColor = System.Drawing.Color.Black
         Me.btnCalculate.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.btnCalculate.Location = New System.Drawing.Point(859, 343)
+=======
+        Me.btnCalculate.Location = New System.Drawing.Point(837, 343)
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.btnCalculate.Name = "btnCalculate"
         Me.btnCalculate.Size = New System.Drawing.Size(158, 42)
         Me.btnCalculate.TabIndex = 21
@@ -263,12 +327,19 @@ Partial Class form
         '
         'btnClear
         '
+<<<<<<< HEAD
         Me.btnClear.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.btnClear.BackColor = System.Drawing.SystemColors.GradientActiveCaption
         Me.btnClear.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.btnClear.FlatAppearance.BorderColor = System.Drawing.Color.Black
         Me.btnClear.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.btnClear.Location = New System.Drawing.Point(674, 343)
+=======
+        Me.btnClear.Location = New System.Drawing.Point(640, 343)
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(158, 42)
         Me.btnClear.TabIndex = 22
@@ -277,12 +348,19 @@ Partial Class form
         '
         'btnVisualize
         '
+<<<<<<< HEAD
         Me.btnVisualize.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.btnVisualize.BackColor = System.Drawing.SystemColors.GradientActiveCaption
         Me.btnVisualize.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.btnVisualize.FlatAppearance.BorderColor = System.Drawing.Color.Black
         Me.btnVisualize.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.btnVisualize.Location = New System.Drawing.Point(491, 343)
+=======
+        Me.btnVisualize.Location = New System.Drawing.Point(441, 343)
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.btnVisualize.Name = "btnVisualize"
         Me.btnVisualize.Size = New System.Drawing.Size(158, 42)
         Me.btnVisualize.TabIndex = 23
@@ -291,7 +369,10 @@ Partial Class form
         '
         'btnFormula
         '
+<<<<<<< HEAD
         Me.btnFormula.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.btnFormula.BackColor = System.Drawing.Color.LightSteelBlue
         Me.btnFormula.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnFormula.Location = New System.Drawing.Point(56, 294)
@@ -321,7 +402,10 @@ Partial Class form
         '
         'Label2
         '
+<<<<<<< HEAD
         Me.Label2.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.Label2.BackColor = System.Drawing.Color.Transparent
         Me.Label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Label2.Location = New System.Drawing.Point(234, 83)
@@ -331,7 +415,10 @@ Partial Class form
         '
         'Label3
         '
+<<<<<<< HEAD
         Me.Label3.Anchor = System.Windows.Forms.AnchorStyles.None
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.Label3.BackColor = System.Drawing.Color.Transparent
         Me.Label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -344,6 +431,7 @@ Partial Class form
         '
         Me.Timer1.Interval = 3000
         '
+<<<<<<< HEAD
         'txtvisual
         '
         Me.txtvisual.Anchor = System.Windows.Forms.AnchorStyles.None
@@ -367,15 +455,22 @@ Partial Class form
         Me.btnPause.Text = "Pause"
         Me.btnPause.UseVisualStyleBackColor = False
         '
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         'form
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+<<<<<<< HEAD
         Me.AutoSize = True
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1137, 528)
         Me.Controls.Add(Me.btnPause)
         Me.Controls.Add(Me.txtvisual)
+=======
+        Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.ClientSize = New System.Drawing.Size(1137, 528)
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.labelFormula)
@@ -440,7 +535,10 @@ Partial Class form
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
+<<<<<<< HEAD
     Friend WithEvents txtvisual As System.Windows.Forms.TextBox
     Friend WithEvents btnPause As System.Windows.Forms.Button
+=======
+>>>>>>> 5071aea437983768712e7b2e2aa8ed0275f67710
 
 End Class
