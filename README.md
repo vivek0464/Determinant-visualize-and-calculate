@@ -19,6 +19,7 @@ __If you are complete beginner,first click on the link provided in the applicati
 ![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(2).png)
 4. If at anytime during visualization,you want to pause the process,you can use the __pause button__.
 5. To clear all the text boxes, you can use __clear button__.
+![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(2)%20-%20Copy.png)
 6. You can click on the __formula button__ to know the formula used to calculate the determinant of the matrix.
 7. Output is calculated in front of "=" sign. R1,R2 and R3 represent the rows whereas C1,C2 and C3 represent the columns.
 
