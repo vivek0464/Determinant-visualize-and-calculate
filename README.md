@@ -15,6 +15,7 @@ __If you are complete beginner,first click on the link provided in the applicati
 1. Fill the __real values__ as input in the cells inside the determinant .
 2. If just want to calculate the determinant,click on __calculate button__.
 3. If you want to visualize the process also,click on __visualize button__.
+![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(2).png)
 4. If at anytime during visualization,you want to pause the process,you can use the __pause button__.
 5. To clear all the text boxes, you can use __clear button__.
 6. You can click on the __formula button__ to know the formula used to calculate the determinant of the matrix.
