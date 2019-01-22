@@ -14,6 +14,7 @@ The application can be used as follows:
 __If you are complete beginner,first click on the link provided in the application to read about the matrix determinant.__
 1. Fill the __real values__ as input in the cells inside the determinant .
 2. If just want to calculate the determinant,click on __calculate button__.
+![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(1)%20-%20Copy.png)
 3. If you want to visualize the process also,click on __visualize button__.
 ![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(2).png)
 4. If at anytime during visualization,you want to pause the process,you can use the __pause button__.
