@@ -17,11 +17,13 @@ __If you are complete beginner,first click on the link provided in the applicati
 ![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(1)%20-%20Copy.png)
 3. If you want to visualize the process also,click on __visualize button__.
 ![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(2).png)
-4. If at anytime during visualization,you want to pause the process,you can use the __pause button__.
-5. To clear all the text boxes, you can use __clear button__.
+4.To check the temporary output after every interval till that operation,see here.
+![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(3).png)
+5. If at anytime during visualization,you want to pause the process,you can use the __pause button__.
+6. To clear all the text boxes, you can use __clear button__.
 ![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(2)%20-%20Copy.png)
-6. You can click on the __formula button__ to know the formula used to calculate the determinant of the matrix.
-7. Output is calculated in front of "=" sign. R1,R2 and R3 represent the rows whereas C1,C2 and C3 represent the columns.
+7. You can click on the __formula button__ to know the formula used to calculate the determinant of the matrix.
+8. Output is calculated in front of "=" sign. R1,R2 and R3 represent the rows whereas C1,C2 and C3 represent the columns.
 
 ## Contributing
 Anyone can contribute to the application to make it more feature rich such as finding the inverse ,rank ,transpose and extending the appication to matrices of size bigger than 3x3.Application can also be extended to complex numbers domain as well.
