@@ -1,5 +1,6 @@
 # Determinant-visualize-and-calculate
 __Educational Visual Basic.Net application__ to completely understand Matrix Determinant through visualization.
+![github-small](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/Screenshot%20(1).png)
 
 ## Introduction
 It is a Visual Basic.Net application to find the determinant of a 3x3 matrix and visualize its working, with formula for the 
