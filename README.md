@@ -27,7 +27,8 @@ Anyone can contribute to the application to make it more feature rich such as fi
 For any problem regarding the application, you can directly raise an issue on its official github repository.
 
 ## Installation
-You can either download and build the project yourself or you can download the .exe file which can directly be used on windows platform from this location -> "Determinant-visualize-and-calculate/Matrix determinent/bin/Debug/  
+You can either download and build the project yourself or you can download the .exe file which can directly be used on windows platform from this location -> "Determinant-visualize-and-calculate/Matrix determinent/bin/Debug/ 
+![](https://github.com/vivek0464/Determinant-visualize-and-calculate/blob/master/screenshot-github.com-2019.01.22-15-02-53.png)
 
 
 
